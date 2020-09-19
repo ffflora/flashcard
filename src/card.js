@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import './Card.css'
+import './card.css'
 
 const repalcePattren = /\/.+/
 

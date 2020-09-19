@@ -2,9 +2,7 @@
 
 ## Usage
 
-```shell
-$ npm start
-```
+> To be written
 
 ## License
 

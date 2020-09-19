@@ -1,7 +1,7 @@
 import React, { useState } from 'react'
 import dataList from './data'
-import Card from './Card'
-import './App.css'
+import Card from './card'
+import './app.css'
 
 // console.log(dataList)
 
