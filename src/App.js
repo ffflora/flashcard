@@ -1,4 +1,4 @@
-import React, {useState} from 'react';
+import React, { useState } from 'react'
 import dataList from './data'
 import Card from './Card'
 import './App.css'
@@ -12,38 +12,38 @@ const getRandomInt = () => {
   return num
 }
 
-function App() {
+function App () {
   const [number, setNumber] = useState(getRandomInt())
 
   const [language, setLanguage] = useState('en')
 
   return (
-    <div className="app">
+    <div className='app'>
       <header>Flora</header>
-        
+
       <Card
         key={`card-${number}`}
         showCN={language === 'cn'}
         data={dataList[number]}
       />
- 
+
       <button
         onClick={() => {
-         setNumber(getRandomInt())
-       }}
+          setNumber(getRandomInt())
+        }}
       >
         Shuffle
       </button>
 
       <button
-        onClick={() =>{
+        onClick={() => {
           setLanguage(language === 'en' ? 'cn' : 'en')
         }}
       >
         中文
       </button>
     </div>
-  );
+  )
 }
 
-export default App;
+export default App

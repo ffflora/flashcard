@@ -1,10 +1,10 @@
-import React, {useState} from 'react'
+import React, { useState } from 'react'
 import './Card.css'
 
 const repalcePattren = /\/.+/
 
-const Card = ({data, showCN}) => {
-  const {question, answers} = data;
+const Card = ({ data, showCN }) => {
+  const { question, answers } = data
 
   const [count, setCount] = useState(0)
 
@@ -21,12 +21,12 @@ const Card = ({data, showCN}) => {
   }
 
   return (
-    <div className="card">
-      <div className="question">{showCN ? question : question.replace(repalcePattren,  '')}</div>
-      <div className="answers">
+    <div className='card'>
+      <div className='question'>{showCN ? question : question.replace(repalcePattren, '')}</div>
+      <div className='answers'>
         {answers.slice(0, count).map((answer, index) => {
           return (
-            <div key={`ans-${index}`} className="answer">
+            <div key={`ans-${index}`} className='answer'>
               {showCN ? answer : answer.replace(repalcePattren, '')}
             </div>
           )
@@ -44,7 +44,3 @@ const Card = ({data, showCN}) => {
 }
 
 export default Card
-// how to change font size!!!?
-
-// CSS, className already there
-// check them out in css file
