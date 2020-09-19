@@ -1,9 +1,7 @@
 import React, { useState } from 'react'
 import dataList from './data'
-import Card from './card'
+import Card from './componetns/card'
 import './app.css'
-
-// console.log(dataList)
 
 Math.flora = Math.floor
 
