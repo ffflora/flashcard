@@ -34,9 +34,9 @@ const Card = ({ data, showCN }) => {
       </div>
 
       {count < answers.length ? (
-        <div>
-          <button onClick={getMoreAnswer}>{answers.length === 1 ? 'Show' : 'More'} answer</button>
-          {answers.length === 1 ? null : <button onClick={getAllAnswers}>All answers</button>}
+        <div className='btn-container'>
+          <button className='btn-more-answer' onClick={getMoreAnswer}>{answers.length === 1 ? 'Show' : 'More'} answer</button>
+          {answers.length === 1 ? null : <button className='btn-all-answer' onClick={getAllAnswers}>All answers</button>}
         </div>
       ) : null}
     </div>

@@ -41,4 +41,66 @@ header:hover {
 header:active {
   background: orange;
   transform: scale(0.875);
+  /* translate: rotate(3600deg); */
+
+}
+
+.btn-shuffle, .btn-language {
+  position: fixed;
+  transition: all 0.2s;
+  width: 200px;
+  height: 50px;
+  text-align: center;
+  font-size: 24px;
+  background: #0cf;
+  border-radius:10px;
+  color: whitesmoke;
+  border: 0;
+  outline: 0;
+}
+
+.btn-language {
+  top: 100px;
+  right: 20px;
+}
+
+.btn-shuffle {
+  top: 100px;
+  right: 240px;
+}
+
+.btn-shuffle:hover, .btn-language:hover {
+  background:  pink;
+  transform: scale(0.9);
+  /* transform: rotate(3600deg); */
+}
+
+
+.btn-all-answer, .btn-more-answer {
+  position: absolute;
+  transition: all 0.2s;
+  width: 200px;
+  height: 50px;
+  text-align: center;
+  font-size: 24px;
+  background: #00ccff; 
+  border-radius:10px;
+  color: whitesmoke;
+  border: 0;
+  outline: 0;
+}
+
+.btn-container {
+  position: absolute;
+  bottom: 80px;
+  
+}
+
+.btn-more-answer {
+  left: 10px;
+
+}
+
+.btn-all-answer {
+  left: 240px;
 }

@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 import dataList from './data'
-import Card from './componetns/card'
+import Card from './components/card'
 import './app.css'
 
 Math.flora = Math.floor
@@ -26,6 +26,7 @@ function App () {
       />
 
       <button
+        className='btn-shuffle'
         onClick={() => {
           setNumber(getRandomInt())
         }}
@@ -34,6 +35,7 @@ function App () {
       </button>
 
       <button
+        className='btn-language'
         onClick={() => {
           setLanguage(language === 'en' ? 'cn' : 'en')
         }}
