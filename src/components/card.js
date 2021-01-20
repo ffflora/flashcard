@@ -5,7 +5,6 @@ const repalcePattren = /\/.+/
 
 const Card = ({ data, showCN }) => {
   const { question, answers } = data
-
   const [count, setCount] = useState(0)
 
   const getMoreAnswer = () => {

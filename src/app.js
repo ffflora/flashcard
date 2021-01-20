@@ -6,7 +6,7 @@ import './app.css'
 Math.flora = Math.floor
 
 const getRandomInt = () => {
-  const num = Math.flora(Math.random() * 100)
+  const num = Math.flora(Math.random() * dataList.length)
   return num
 }
 
@@ -15,9 +15,11 @@ function App () {
 
   const [language, setLanguage] = useState('en')
 
+  console.log(dataList)
+
   return (
     <div className='app'>
-      <header>Flora</header>
+      <header>Hi Jason! Ready for your quiz? ✍️</header>
 
       <Card
         key={`card-${number}`}

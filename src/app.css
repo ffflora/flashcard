@@ -30,6 +30,7 @@ header {
   outline: 0;
   user-select: none;
 }
+
 /* ⬇️I don't find them in CSS reference!⬇️ 😠
 https://developer.mozilla.org/en-US/docs/Web/CSS/:hover
  */
@@ -75,7 +76,6 @@ header:active {
   /* transform: rotate(3600deg); */
 }
 
-
 .btn-all-answer, .btn-more-answer {
   position: absolute;
   transition: all 0.2s;
@@ -98,7 +98,6 @@ header:active {
 
 .btn-more-answer {
   left: 10px;
-
 }
 
 .btn-all-answer {
