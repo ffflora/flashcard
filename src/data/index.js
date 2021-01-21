@@ -601,6 +601,81 @@ export default [
     answers: [
       '存在 vs 离开'
     ]
+  }, {
+    question: 'Get used to it',
+    answers: [
+      'I don’t get used to it yet.', '我还不习惯。'
+    ]
+  }, {
+    question: 'waste',
+    answers: [
+      'It`s a waste of time.', '浪费'
+    ]
+  }, {
+    question: 'Commission  /kə`mɪʃən/',
+    answers: [
+      '佣金，提成'
+    ]
+  }, {
+    question: 'bonus',
+    answers: [
+      '奖金'
+    ]
+  }, {
+    question: 'perk',
+    answers: [
+      'The perks  including insurance, parking, and snacks.'
+    ]
+  }, {
+    question: 'Unemployment benefit',
+    answers: [
+      '失业金'
+    ]
+  }, {
+    question: 'routine',
+    answers: [
+      '日常活动，惯例'
+    ]
+  }, {
+    question: 'Now that',
+    answers: [
+      'Now that you have won the regional competition, what’s next?', '由于，既然'
+    ]
+  }, {
+    question: 'Receive',
+    answers: [
+      '收到'
+    ]
+  }, {
+    question: 'Break a leg',
+    answers: [
+      'good luck'
+    ]
+  }, {
+    question: 'Hold your tongue!',
+    answers: [
+      'Be quiet.'
+    ]
+  }, {
+    question: 'Keep your chin up',
+    answers: [
+      'Don`t be sad.'
+    ]
+  }, {
+    question: 'Keep your eye on the ball.',
+    answers: [
+      'Pay attention.', '集中注意力！'
+    ]
+  }, {
+    question: 'Put your best foot forward.',
+    answers: [
+      'Try hard.', '尽力而为'
+    ]
+  }, {
+    question: 'Get off my back.',
+    answers: [
+      'Don`t bother me.', '别打扰我'
+    ]
   }
   // , {
   //   question: '',
@@ -857,84 +932,9 @@ export default [
   //   answers: [
   //     ''
   //   ]
-  // }, {
-  //   question: '',
-  //   answers: [
-  //     ''
-  //   ]
-  // }, {
-  //   question: '',
-  //   answers: [
-  //     ''
-  //   ]
-  // }, {
-  //   question: '',
-  //   answers: [
-  //     ''
-  //   ]
-  // }, {
-  //   question: '',
-  //   answers: [
-  //     ''
-  //   ]
-  // }, {
-  //   question: '',
-  //   answers: [
-  //     ''
-  //   ]
-  // }, {
-  //   question: '',
-  //   answers: [
-  //     ''
-  //   ]
-  // }, {
-  //   question: '',
-  //   answers: [
-  //     ''
-  //   ]
-  // }, {
-  //   question: '',
-  //   answers: [
-  //     ''
-  //   ]
-  // }, {
-  //   question: '',
-  //   answers: [
-  //     ''
-  //   ]
-  // }, {
-  //   question: '',
-  //   answers: [
-  //     ''
-  //   ]
-  // }, {
-  //   question: '',
-  //   answers: [
-  //     ''
-  //   ]
-  // }, {
-  //   question: '',
-  //   answers: [
-  //     ''
-  //   ]
-  // }, {
-  //   question: '',
-  //   answers: [
-  //     ''
-  //   ]
-  // }, {
-  //   question: '',
-  //   answers: [
-  //     ''
-  //   ]
-  // }, {
-  //   question: '',
-  //   answers: [
-  //     ''
-  //   ]
-  // }
+  // },
 
-  //,  {
+  //   {
   //   question: '',
   //   answers: [
   //     ''
@@ -964,14 +964,14 @@ export default [
   //   answers: [
   //     ''
   //   ]
-  // }
-  // , {
+  // },
+  //  {
   //   question: '',
   //   answers: [
   //     ''
   //   ]
-  // }
-  // , {
+  // },
+  //  {
   //   question: '',
   //   answers: [
   //     ''

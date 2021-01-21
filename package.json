@@ -2,6 +2,7 @@
   "name": "flashcard",
   "version": "0.0.0",
   "private": true,
+  "homepage": "https://ffflora.cat/flashcard",
   "dependencies": {
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
