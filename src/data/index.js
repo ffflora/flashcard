@@ -14,9 +14,9 @@ export default [
     ]
   },
   {
-    question: 'catch a cold',
+    question: 'humidity',
     answers: [
-      '感冒'
+      '湿度'
     ]
   }, {
     question: 'chew',
@@ -34,9 +34,9 @@ export default [
       '分离', '脱臼'
     ]
   }, {
-    question: 'do card tricks',
+    question: 'portrait',
     answers: [
-      '扑克把戏'
+      '肖像'
     ]
   }, {
     question: 'fall through',
@@ -189,9 +189,9 @@ export default [
       '加勒比海'
     ]
   }, {
-    question: 'equipment',
+    question: 'think over',
     answers: [
-      '设备', '器械'
+      'I need to think a decision over.', '重新考虑'
     ]
   }, {
     question: 'Soundtrack',
@@ -234,9 +234,9 @@ export default [
       '阳台'
     ]
   }, {
-    question: 'popcorn',
+    question: 'weather forecast',
     answers: [
-      '爆米花'
+      '天气预报'
     ]
   }, {
     question: 'heartbroken',
@@ -676,48 +676,49 @@ export default [
     answers: [
       'Don`t bother me.', '别打扰我'
     ]
+  }, {
+    question: 'use up',
+    answers: [
+      'I used up all the salt this week.', '用完，耗尽'
+    ]
+  }, {
+    question: 'look up',
+    answers: [
+      '查询，查看'
+    ]
+  }, {
+    question: 'look around',
+    answers: [
+      '到处看', 'Has anybody seen my friend Martin? I just looked around and he’s(he has) gone.'
+    ]
+  }, {
+    question: 'accept',
+    answers: [
+      'I can`t accept the invitation to their wedding ceremony because I don`t have time.'
+    ]
+  }, {
+    question: 'Turn down',
+    answers: [
+      'She turned his down when he asked her to marry him.', '拒绝'
+    ]
+  }, {
+    question: 'erase',
+    answers: [
+      '擦除'
+    ]
+  }, {
+    question: 'eraser',
+    answers: [
+      '橡皮'
+    ]
+  }, {
+    question: 'wipe',
+    answers: [
+      '擦拭', 'I was wiping groceries (that) my wife bought from the supermarket.'
+    ]
   }
+  // 9-2, 5
   // , {
-  //   question: '',
-  //   answers: [
-  //     ''
-  //   ]
-  // }, {
-  //   question: '',
-  //   answers: [
-  //     ''
-  //   ]
-  // }, {
-  //   question: '',
-  //   answers: [
-  //     ''
-  //   ]
-  // }, {
-  //   question: '',
-  //   answers: [
-  //     ''
-  //   ]
-  // }, {
-  //   question: '',
-  //   answers: [
-  //     ''
-  //   ]
-  // }, {
-  //   question: '',
-  //   answers: [
-  //     ''
-  //   ]
-  // }, {
-  //   question: '',
-  //   answers: [
-  //     ''
-  //   ]
-  // }, {
-  //   question: '',
-  //   answers: [
-  //     ''
-  //   ]
-  // }, {
   //   question: '',
   //   answers: [
   //     ''
