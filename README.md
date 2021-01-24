@@ -1,8 +1,13 @@
-# naturalization-problem-set-flashcard
-
+# Vocab-flashcard
+Vocab flashcard 
 ## Usage
 
-> To be written
+`npm run` 
+
+`npm deploy`
+
+## Features to add
+- Add a "database" to enable adding/deleting vocab from interface directly.
 
 ## License
 
