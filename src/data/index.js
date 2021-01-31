@@ -716,8 +716,87 @@ export default [
     answers: [
       '擦拭', 'I was wiping groceries (that) my wife bought from the supermarket.'
     ]
+  }, {
+    question: 'cross out',
+    answers: [
+      'You need to cross out the wrong answer.', '划掉'
+    ]
+  }, {
+    question: 'leave...on',
+    answers: [
+      'Please leave the TV on.', '保持……开着'
+    ]
+  }, {
+    question: 'figure out',
+    answers: [
+      'We need to figure out this issue tonight.', '解决'
+    ]
+  }, {
+    question: 'look up vs look up to',
+    answers: [
+      '查阅，查询', '尊敬'
+    ]
+  }, {
+    question: 'put on',
+    answers: [
+      'You should put on the sweater, it`s too cold.', '穿上'
+    ]
+  }, {
+    question: 'use up',
+    answers: [
+      'Mike used up all the papers, so he needed to buy more.', '用完'
+    ]
+  }, {
+    question: 'look through',
+    answers: [
+      'He looked through the entire selection of pants.', '浏览'
+    ]
+  }, {
+    question: 'turn down',
+    answers: [
+      'Please turn the volume down, it`s too loud.', '关小，降低'
+    ]
+  }, {
+    question: 'get along with',
+    answers: [
+      'They get along with each other very well.', '与……相处融洽'
+    ]
+  }, {
+    question: 'get over',
+    answers: [
+      'Linda finally got over the cold, now she gets back to work.'
+    ]
+  }, {
+    question: 'come over',
+    answers: [
+      'She always picks on her brother when his friends come over to play', '过来'
+    ]
+  }, {
+    question: 'pick on',
+    answers: [
+      'She always picks on her brother when his friends come over to play', '欺负'
+    ]
+  }, {
+    question: 'run into = bump into',
+    answers: [
+      'I ran/bumped into my high school teacher yesterday.'
+    ]
+  }, {
+    question: 'attractive',
+    answers: [
+      '/ə`træktɪv/, 有吸引力的，诱人的'
+    ]
+  }, {
+    question: 'tight',
+    answers: [
+      '紧的'
+    ]
+  }, {
+    question: 'narrow',
+    answers: [
+      '窄的'
+    ]
   }
-  // 9-2, 5
   // , {
   //   question: '',
   //   answers: [
@@ -853,89 +932,9 @@ export default [
   //   answers: [
   //     ''
   //   ]
-  // }, {
-  //   question: '',
-  //   answers: [
-  //     ''
-  //   ]
-  // }, {
-  //   question: '',
-  //   answers: [
-  //     ''
-  //   ]
-  // }, {
-  //   question: '',
-  //   answers: [
-  //     ''
-  //   ]
-  // }, {
-  //   question: '',
-  //   answers: [
-  //     ''
-  //   ]
-  // }, {
-  //   question: '',
-  //   answers: [
-  //     ''
-  //   ]
-  // }, {
-  //   question: '',
-  //   answers: [
-  //     ''
-  //   ]
-  // }, {
-  //   question: '',
-  //   answers: [
-  //     ''
-  //   ]
-  // }, {
-  //   question: '',
-  //   answers: [
-  //     ''
-  //   ]
-  // }, {
-  //   question: '',
-  //   answers: [
-  //     ''
-  //   ]
-  // }, {
-  //   question: '',
-  //   answers: [
-  //     ''
-  //   ]
-  // }, {
-  //   question: '',
-  //   answers: [
-  //     ''
-  //   ]
-  // }, {
-  //   question: '',
-  //   answers: [
-  //     ''
-  //   ]
-  // }, {
-  //   question: '',
-  //   answers: [
-  //     ''
-  //   ]
-  // }, {
-  //   question: '',
-  //   answers: [
-  //     ''
-  //   ]
-  // }, {
-  //   question: '',
-  //   answers: [
-  //     ''
-  //   ]
-  // }, {
-  //   question: '',
-  //   answers: [
-  //     ''
-  //   ]
-  // },
-
-  //   {
+  // }
+  // 9-2, 5
+  //,   {
   //   question: '',
   //   answers: [
   //     ''
