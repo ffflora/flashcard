@@ -1,10 +1,8 @@
 export default [
   {
-    question: 'break - broke - broken',
+    question: 'Conservative',
     answers: [
-      '打破',
-      '休息',
-      '中断'
+      '结束'
     ]
   },
   {
@@ -59,9 +57,9 @@ export default [
       '受伤'
     ]
   }, {
-    question: 'go by',
+    question: 'yell',
     answers: [
-      '经过', '路过'
+      '大喊，大叫（生气）'
     ]
   }, {
     question: 'go canoeing',
@@ -259,9 +257,9 @@ export default [
       '肥皂剧'
     ]
   }, {
-    question: 'gymnastics',
+    question: 'search',
     answers: [
-      '/dʒɪm ‘næstɪks/', '体操'
+      '搜索'
     ]
   }, {
     question: 'Accomplishment',
@@ -284,9 +282,9 @@ export default [
       '/pəˈreɪd/', '游行'
     ]
   }, {
-    question: 'buy 的过去式和过去分词',
+    question: 'Be electrocuted',
     answers: [
-      'bought'
+      '被电击'
     ]
   }, {
     question: 'bring 的过去式和过去分词',
@@ -397,9 +395,9 @@ export default [
       '注册'
     ]
   }, {
-    question: 'complain',
+    question: 'apologize',
     answers: [
-      '抱怨'
+      '道歉'
     ]
   }, {
     question: 'hate',
@@ -477,9 +475,9 @@ export default [
       '天文学 vs. 天文学家'
     ]
   }, {
-    question: 'physician',
+    question: 'audition',
     answers: [
-      'doctor'
+      '试音，试镜，试戏'
     ]
   }, {
     question: 'journalist',
@@ -487,9 +485,9 @@ export default [
       '记者'
     ]
   }, {
-    question: 'musician',
+    question: 'magician',
     answers: [
-      '音乐家'
+      '魔术师'
     ]
   }, {
     question: 'stiff',
@@ -527,9 +525,9 @@ export default [
       '彩票'
     ]
   }, {
-    question: 'carpenter',
+    question: 'refuse',
     answers: [
-      '木匠'
+      '拒绝'
     ]
   }, {
     question: 'tulip',
@@ -582,9 +580,9 @@ export default [
       '深夜（的）'
     ]
   }, {
-    question: 'midnight',
+    question: 'popsicle',
     answers: [
-      '半夜（的）'
+      '冰棍'
     ]
   }, {
     question: 'day shift, night shift',
@@ -796,58 +794,58 @@ export default [
     answers: [
       '窄的'
     ]
+  }, {
+    question: 'go through',
+    answers: [
+      'They are going through a difficult time.', '经历'
+    ]
+  }, {
+    question: 'vocation',
+    answers: [
+      'vocational training', '职业'
+    ]
+  }, {
+    question: 'oversea',
+    answers: [
+      '海外，海外的'
+    ]
+  }, {
+    question: 'agreement',
+    answers: [
+      '合同，合约'
+    ]
+  }, {
+    question: 'valuable',
+    answers: [
+      '贵重的，有价值的'
+    ]
+  }, {
+    question: 'sneeze',
+    answers: [
+      '打喷嚏'
+    ]
+  }, {
+    question: 'tournament',
+    answers: [
+      '锦标赛，联赛'
+    ]
+  }, {
+    question: 'Confidently',
+    answers: [
+      '自信地'
+    ]
+  }, {
+    question: 'Confidence',
+    answers: [
+      '自信'
+    ]
+  }, {
+    question: 'Conservative',
+    answers: [
+      '保守的'
+    ]
   }
-  // , {
-  //   question: '',
-  //   answers: [
-  //     ''
-  //   ]
-  // }, {
-  //   question: '',
-  //   answers: [
-  //     ''
-  //   ]
-  // }, {
-  //   question: '',
-  //   answers: [
-  //     ''
-  //   ]
-  // }, {
-  //   question: '',
-  //   answers: [
-  //     ''
-  //   ]
-  // }, {
-  //   question: '',
-  //   answers: [
-  //     ''
-  //   ]
-  // }, {
-  //   question: '',
-  //   answers: [
-  //     ''
-  //   ]
-  // }, {
-  //   question: '',
-  //   answers: [
-  //     ''
-  //   ]
-  // }, {
-  //   question: '',
-  //   answers: [
-  //     ''
-  //   ]
-  // }, {
-  //   question: '',
-  //   answers: [
-  //     ''
-  //   ]
-  // }, {
-  //   question: '',
-  //   answers: [
-  //     ''
-  //   ]
-  // }, {
+  , {
   //   question: '',
   //   answers: [
   //     ''
