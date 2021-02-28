@@ -1,1081 +1,231 @@
 export default [
   {
-    question: 'Conservative',
+    question: 'differently',
     answers: [
-      '结束'
-    ]
-  },
-  {
-    question: 'break up',
-    answers: [
-      '分手'
-    ]
-  },
-  {
-    question: 'humidity',
-    answers: [
-      '湿度'
+      ''
     ]
   }, {
-    question: 'chew',
+    question: 'confidently',
     answers: [
-      '咀嚼'
+      ''
     ]
   }, {
-    question: 'deserve',
+    question: 'certainly',
     answers: [
-      '值得'
+      ''
     ]
   }, {
-    question: 'dislocate',
+    question: 'curious',
     answers: [
-      '分离', '脱臼'
-    ]
-  }, {
-    question: 'portrait',
-    answers: [
-      '肖像'
-    ]
-  }, {
-    question: 'fall through',
-    answers: [
-      '落空'
-    ]
-  }, {
-    question: 'fly 的过去式和过去分词',
-    answers: [
-      'flew', 'flown'
-    ]
-  }, {
-    question: 'get cold feet',
-    answers: [
-      'get scared'
-    ]
-  }, {
-    question: 'get hurt',
-    answers: [
-      '受伤'
-    ]
-  }, {
-    question: 'yell',
-    answers: [
-      '大喊，大叫（生气）'
-    ]
-  }, {
-    question: 'go canoeing',
-    answers: [
-      '🛶'
-    ]
-  }, {
-    question: 'look through vs. look forward to...',
-    answers: [
-      '看过，看透', '期待'
-    ]
-  }, {
-    question: 'memorize',
-    answers: [
-      'remember'
-    ]
-  }, {
-    question: 'memory',
-    answers: [
-      'pl. memories ', '记忆'
-    ]
-  }, {
-    question: 'script',
-    answers: [
-      '台词'
-    ]
-  }, {
-    question: 'perform vs. confirm',
-    answers: [
-      '表演', '确认'
-    ]
-  }, {
-    question: 'play squash',
-    answers: [
-      '打壁球'
-    ]
-  }, {
-    question: 'purchase',
-    answers: [
-      'buy'
-    ]
-  }, {
-    question: 'put on vs. put down',
-    answers: [
-      '穿上', '放下'
-    ]
-  }, {
-    question: 'realize',
-    answers: [
-      '意识到'
-    ]
-  }, {
-    question: 'rehearse v. & researsal n.',
-    answers: [
-      '排练，预演'
-    ]
-  }, {
-    question: 'recital',
-    answers: [
-      '独奏会'
-    ]
-  }, {
-    question: 'sail away',
-    answers: [
-      '远航'
-    ]
-  }, {
-    question: 'shovel',
-    answers: [
-      '铲雪'
-    ]
-  }, {
-    question: 'sprain',
-    answers: [
-      '扭伤'
-    ]
-  }, {
-    question: 'stay up(all night)',
-    answers: [
-      '熬夜（通宵）'
-    ]
-  }, {
-    question: 'take a psychology course',
-    answers: [
-      '上心理学的课'
-    ]
-  }, {
-    question: 'take off',
-    answers: [
-      '下飞机，下船，下车……'
-    ]
-  }, {
-    question: 'take vitamins',
-    answers: [
-      '吃维他命'
-    ]
-  }, {
-    question: 'turn on',
-    answers: [
-      '打开'
-    ]
-  }, {
-    question: 'days gone by',
-    answers: [
-      '往昔岁月'
-    ]
-  }, {
-    question: 'twist',
-    answers: [
-      '扭伤'
-    ]
-  }, {
-    question: 'wrestle',
-    answers: [
-      '🤼‍♀️'
-    ]
-  }, {
-    question: 'athlete',
-    answers: [
-      '运动员'
-    ]
-  }, {
-    question: 'Caribbean',
-    answers: [
-      '加勒比海'
-    ]
-  }, {
-    question: 'think over',
-    answers: [
-      'I need to think a decision over.', '重新考虑'
-    ]
-  }, {
-    question: 'Soundtrack',
-    answers: [
-      '原声带'
-    ]
-  }, {
-    question: 'competition',
-    answers: [
-      '比赛'
-    ]
-  }, {
-    question: 'Bobsled',
-    answers: [
-      '🛷'
-    ]
-  }, {
-    question: 'amazing',
-    answers: [
-      '令人吃惊的'
-    ]
-  }, {
-    question: 'unusual',
-    answers: [
-      '不寻常的'
-    ]
-  }, {
-    question: 'invite v. & invitation n.',
-    answers: [
-      '邀请'
-    ]
-  }, {
-    question: 'Hide and seek',
-    answers: [
-      '捉迷藏'
-    ]
-  }, {
-    question: 'balcony',
-    answers: [
-      '阳台'
-    ]
-  }, {
-    question: 'weather forecast',
-    answers: [
-      '天气预报'
-    ]
-  }, {
-    question: 'heartbroken',
-    answers: [
-      '心碎的'
+      ''
     ]
   }, {
     question: 'furious',
     answers: [
-      '狂怒的'
+      ''
     ]
   }, {
-    question: 'Nostalgic',
+    question: 'previous',
     answers: [
-      ' /nɒˈstældʒɪk/', '思乡的'
+      ''
     ]
   }, {
-    question: 'Soap Opera',
+    question: 'concerned',
     answers: [
-      '肥皂剧'
+      ''
     ]
   }, {
-    question: 'search',
+    question: 'exauseted',
     answers: [
-      '搜索'
+      ''
     ]
   }, {
-    question: 'Accomplishment',
+    question: 'completely',
     answers: [
-      '成就'
+      ''
     ]
   }, {
-    question: 'after all',
+    question: 'definitely',
     answers: [
-      '毕竟'
+      ''
     ]
   }, {
-    question: 'promotion',
+    question: 'conservative',
     answers: [
-      '升职', '促销'
+      ''
     ]
   }, {
-    question: 'parade',
+    question: 'totally',
     answers: [
-      '/pəˈreɪd/', '游行'
+      ''
     ]
   }, {
-    question: 'Be electrocuted',
+    question: 'lately',
     answers: [
-      '被电击'
+      ''
     ]
   }, {
-    question: 'bring 的过去式和过去分词',
+    question: 'recently',
     answers: [
-      'brought'
+      ''
     ]
   }, {
-    question: 'hear 的过去式和过去分词',
+    question: 'extremely',
     answers: [
-      'heard'
+      ''
     ]
   }, {
-    question: 'Distance running',
+    question: '',
     answers: [
-      '长跑'
+      ''
     ]
   }, {
-    question: 'deserve',
+    question: '',
     answers: [
-      '值得'
+      ''
     ]
   }, {
-    question: 'ceremony',
+    question: '',
     answers: [
-      '仪式', '典礼'
+      ''
     ]
   }, {
-    question: 'Practice makes perfect.',
+    question: '',
     answers: [
-      '熟能生巧。'
+      ''
     ]
   }, {
-    question: 'gossip',
+    question: '',
     answers: [
-      '八卦', 'I don’t like to make friends with people who/that gossip a lot.'
+      ''
     ]
   }, {
-    question: 'interrupt',
+    question: '',
     answers: [
-      '打断', 'Please don’t interrupt me during the meeting.'
+      ''
     ]
   }, {
-    question: 'appreciate v. & appreciation n.',
+    question: '',
     answers: [
-      '感恩', '赏析'
+      ''
     ]
   }, {
-    question: 'figure skate',
+    question: '',
     answers: [
-      '花样滑冰'
+      ''
     ]
   }, {
-    question: 'vegetarian',
+    question: '',
     answers: [
-      '素食主义者'
+      ''
     ]
   }, {
-    question: 'jealous',
+    question: '',
     answers: [
-      '嫉妒的'
+      ''
     ]
   }, {
-    question: 'envy',
+    question: '',
     answers: [
-      '羡慕'
+      ''
     ]
   }, {
-    question: 'draw 的过去式和过去分词',
+    question: '',
     answers: [
-      'drew', 'drawn'
+      ''
     ]
   }, {
-    question: 'not at all',
+    question: '',
     answers: [
-      '一点儿也不'
+      ''
     ]
   }, {
-    question: 'tease',
+    question: '',
     answers: [
-      '戏弄'
+      ''
     ]
   }, {
-    question: '女婿、儿媳妇、婆婆/岳母、公公/岳父',
+    question: '',
     answers: [
-      'Son-in-law',
-      'Daughter-in-law',
-      'Mother-in-law',
-      'Father-in-law'
+      ''
     ]
   }, {
-    question: 'spectrum',
+    question: '',
     answers: [
-      '光谱'
+      ''
     ]
   }, {
-    question: 'complete',
+    question: '',
     answers: [
-      '完成'
+      ''
     ]
   }, {
-    question: 'recent adj. & recently adv.',
+    question: '',
     answers: [
-      '最近的，最近地'
+      ''
     ]
   }, {
-    question: 'enroll',
+    question: '',
     answers: [
-      '注册'
+      ''
     ]
   }, {
-    question: 'apologize',
+    question: '',
     answers: [
-      '道歉'
+      ''
     ]
   }, {
-    question: 'hate',
+    question: '',
     answers: [
-      'dislike', 'I hate being interrupted during sleep.'
+      ''
     ]
   }, {
-    question: 'habit',
+    question: '',
     answers: [
-      'Taking a nap after lunch is my habit.', '习惯'
+      ''
     ]
   }, {
-    question: 'annual leave',
+    question: '',
     answers: [
-      '年假'
+      ''
     ]
   }, {
-    question: 'sick leave',
+    question: '',
     answers: [
-      '病假'
+      ''
     ]
   }, {
-    question: 'do sit-ups',
+    question: '',
     answers: [
-      '仰卧起坐'
+      ''
     ]
   }, {
-    question: 'leak',
+    question: '',
     answers: [
-      '漏的'
+      ''
     ]
   }, {
-    question: 'peel',
+    question: '',
     answers: [
-      '剥皮', '脱落'
+      ''
     ]
   }, {
-    question: 'mend',
+    question: '',
     answers: [
-      '修理', '修补'
+      ''
     ]
   }, {
-    question: 'pick',
+    question: '',
     answers: [
-      '挑', '捡', '还记得“挑剔的”怎么说吗？', 'picky'
+      ''
     ]
   }, {
-    question: 'Siren',
+    question: '',
     answers: [
-      '警笛'
-    ]
-  }, {
-    question: 'ceiling',
-    answers: [
-      '天花板'
-    ]
-  }, {
-    question: 'appreciate',
-    answers: [
-      'I appreciate your help.', '感激'
-    ]
-  }, {
-    question: 'exhausted',
-    answers: [
-      '/ɪɡ‘zɔstɪd/', '精疲力尽的'
-    ]
-  }, {
-    question: 'astronaut',
-    answers: [
-      '/’æstrə‘nɔt/', '宇航员'
-    ]
-  }, {
-    question: 'astronomy vs astronomer',
-    answers: [
-      '天文学 vs. 天文学家'
-    ]
-  }, {
-    question: 'audition',
-    answers: [
-      '试音，试镜，试戏'
-    ]
-  }, {
-    question: 'journalist',
-    answers: [
-      '记者'
-    ]
-  }, {
-    question: 'magician',
-    answers: [
-      '魔术师'
-    ]
-  }, {
-    question: 'stiff',
-    answers: [
-      'She got stiff neck, and she is in huge pain.'
-    ]
-  }, {
-    question: 'medal',
-    answers: [
-      '奖牌'
-    ]
-  }, {
-    question: 'swell vs. swollen',
-    answers: [
-      '肿胀', ' 肿的'
-    ]
-  }, {
-    question: 'termite /tɝmaɪt/',
-    answers: [
-      '白蚁'
-    ]
-  }, {
-    question: 'geography',
-    answers: [
-      '地理学'
-    ]
-  }, {
-    question: 'biology',
-    answers: [
-      '生物学'
-    ]
-  }, {
-    question: 'lottery',
-    answers: [
-      '彩票'
-    ]
-  }, {
-    question: 'refuse',
-    answers: [
-      '拒绝'
-    ]
-  }, {
-    question: 'tulip',
-    answers: [
-      '郁金香'
-    ]
-  }, {
-    question: 'Safari',
-    answers: [
-      'Safari Zoo', '野生动物园'
-    ]
-  }, {
-    question: 'engage',
-    answers: [
-      'They engaged last month, and they plan to have the wedding next month.', '订婚'
-    ]
-  }, {
-    question: 'black and blue',
-    answers: [
-      '青一块紫一块'
-    ]
-  }, {
-    question: 'accent vs accident',
-    answers: [
-      '口音', '意外', 'by accident'
-    ]
-  }, {
-    question: 'Arrogant',
-    answers: [
-      '自大的，傲慢的，骄傲的'
-    ]
-  }, {
-    question: 'proud',
-    answers: [
-      '自豪的，骄傲的'
-    ]
-  }, {
-    question: 'successful',
-    answers: [
-      '成功的'
-    ]
-  }, {
-    question: 'time zone',
-    answers: [
-      'we are in PST time zone.', 'PST: pacific time', '时区'
-    ]
-  }, {
-    question: 'late night',
-    answers: [
-      '深夜（的）'
-    ]
-  }, {
-    question: 'popsicle',
-    answers: [
-      '冰棍'
-    ]
-  }, {
-    question: 'day shift, night shift',
-    answers: [
-      '白班，晚班'
-    ]
-  }, {
-    question: 'unique',
-    answers: [
-      '独一无二的'
-    ]
-  }, {
-    question: 'exist vs exit',
-    answers: [
-      '存在 vs 离开'
-    ]
-  }, {
-    question: 'Get used to it',
-    answers: [
-      'I don’t get used to it yet.', '我还不习惯。'
-    ]
-  }, {
-    question: 'waste',
-    answers: [
-      'It`s a waste of time.', '浪费'
-    ]
-  }, {
-    question: 'Commission  /kə`mɪʃən/',
-    answers: [
-      '佣金，提成'
-    ]
-  }, {
-    question: 'bonus',
-    answers: [
-      '奖金'
-    ]
-  }, {
-    question: 'perk',
-    answers: [
-      'The perks  including insurance, parking, and snacks.'
-    ]
-  }, {
-    question: 'Unemployment benefit',
-    answers: [
-      '失业金'
-    ]
-  }, {
-    question: 'routine',
-    answers: [
-      '日常活动，惯例'
-    ]
-  }, {
-    question: 'Now that',
-    answers: [
-      'Now that you have won the regional competition, what’s next?', '由于，既然'
-    ]
-  }, {
-    question: 'Receive',
-    answers: [
-      '收到'
-    ]
-  }, {
-    question: 'Break a leg',
-    answers: [
-      'good luck'
-    ]
-  }, {
-    question: 'Hold your tongue!',
-    answers: [
-      'Be quiet.'
-    ]
-  }, {
-    question: 'Keep your chin up',
-    answers: [
-      'Don`t be sad.'
-    ]
-  }, {
-    question: 'Keep your eye on the ball.',
-    answers: [
-      'Pay attention.', '集中注意力！'
-    ]
-  }, {
-    question: 'Put your best foot forward.',
-    answers: [
-      'Try hard.', '尽力而为'
-    ]
-  }, {
-    question: 'Get off my back.',
-    answers: [
-      'Don`t bother me.', '别打扰我'
-    ]
-  }, {
-    question: 'use up',
-    answers: [
-      'I used up all the salt this week.', '用完，耗尽'
-    ]
-  }, {
-    question: 'look up',
-    answers: [
-      '查询，查看'
-    ]
-  }, {
-    question: 'look around',
-    answers: [
-      '到处看', 'Has anybody seen my friend Martin? I just looked around and he’s(he has) gone.'
-    ]
-  }, {
-    question: 'accept',
-    answers: [
-      'I can`t accept the invitation to their wedding ceremony because I don`t have time.'
-    ]
-  }, {
-    question: 'Turn down',
-    answers: [
-      'She turned his down when he asked her to marry him.', '拒绝'
-    ]
-  }, {
-    question: 'erase',
-    answers: [
-      '擦除'
-    ]
-  }, {
-    question: 'eraser',
-    answers: [
-      '橡皮'
-    ]
-  }, {
-    question: 'wipe',
-    answers: [
-      '擦拭', 'I was wiping groceries (that) my wife bought from the supermarket.'
-    ]
-  }, {
-    question: 'cross out',
-    answers: [
-      'You need to cross out the wrong answer.', '划掉'
-    ]
-  }, {
-    question: 'leave...on',
-    answers: [
-      'Please leave the TV on.', '保持……开着'
-    ]
-  }, {
-    question: 'figure out',
-    answers: [
-      'We need to figure out this issue tonight.', '解决'
-    ]
-  }, {
-    question: 'look up vs look up to',
-    answers: [
-      '查阅，查询', '尊敬'
-    ]
-  }, {
-    question: 'put on',
-    answers: [
-      'You should put on the sweater, it`s too cold.', '穿上'
-    ]
-  }, {
-    question: 'use up',
-    answers: [
-      'Mike used up all the papers, so he needed to buy more.', '用完'
-    ]
-  }, {
-    question: 'look through',
-    answers: [
-      'He looked through the entire selection of pants.', '浏览'
-    ]
-  }, {
-    question: 'turn down',
-    answers: [
-      'Please turn the volume down, it`s too loud.', '关小，降低'
-    ]
-  }, {
-    question: 'get along with',
-    answers: [
-      'They get along with each other very well.', '与……相处融洽'
-    ]
-  }, {
-    question: 'get over',
-    answers: [
-      'Linda finally got over the cold, now she gets back to work.'
-    ]
-  }, {
-    question: 'come over',
-    answers: [
-      'She always picks on her brother when his friends come over to play', '过来'
-    ]
-  }, {
-    question: 'pick on',
-    answers: [
-      'She always picks on her brother when his friends come over to play', '欺负'
-    ]
-  }, {
-    question: 'run into = bump into',
-    answers: [
-      'I ran/bumped into my high school teacher yesterday.'
-    ]
-  }, {
-    question: 'attractive',
-    answers: [
-      '/ə`træktɪv/, 有吸引力的，诱人的'
-    ]
-  }, {
-    question: 'tight',
-    answers: [
-      '紧的'
-    ]
-  }, {
-    question: 'narrow',
-    answers: [
-      '窄的'
-    ]
-  }, {
-    question: 'go through',
-    answers: [
-      'They are going through a difficult time.', '经历'
-    ]
-  }, {
-    question: 'vocation',
-    answers: [
-      'vocational training', '职业'
-    ]
-  }, {
-    question: 'oversea',
-    answers: [
-      '海外，海外的'
-    ]
-  }, {
-    question: 'agreement',
-    answers: [
-      '合同，合约'
-    ]
-  }, {
-    question: 'valuable',
-    answers: [
-      '贵重的，有价值的'
-    ]
-  }, {
-    question: 'sneeze',
-    answers: [
-      '打喷嚏'
-    ]
-  }, {
-    question: 'tournament',
-    answers: [
-      '锦标赛，联赛'
-    ]
-  }, {
-    question: 'Confidently',
-    answers: [
-      '自信地'
-    ]
-  }, {
-    question: 'Confidence',
-    answers: [
-      '自信'
-    ]
-  }, {
-    question: 'Conservative',
-    answers: [
-      '保守的'
+      ''
     ]
   }
   // , {
-  //   question: '',
-  //   answers: [
-  //     ''
-  //   ]
-  // }, {
-  //   question: '',
-  //   answers: [
-  //     ''
-  //   ]
-  // }, {
-  //   question: '',
-  //   answers: [
-  //     ''
-  //   ]
-  // }, {
-  //   question: '',
-  //   answers: [
-  //     ''
-  //   ]
-  // }, {
-  //   question: '',
-  //   answers: [
-  //     ''
-  //   ]
-  // }, {
-  //   question: '',
-  //   answers: [
-  //     ''
-  //   ]
-  // }, {
-  //   question: '',
-  //   answers: [
-  //     ''
-  //   ]
-  // }, {
-  //   question: '',
-  //   answers: [
-  //     ''
-  //   ]
-  // }, {
-  //   question: '',
-  //   answers: [
-  //     ''
-  //   ]
-  // }, {
-  //   question: '',
-  //   answers: [
-  //     ''
-  //   ]
-  // }, {
-  //   question: '',
-  //   answers: [
-  //     ''
-  //   ]
-  // }, {
-  //   question: '',
-  //   answers: [
-  //     ''
-  //   ]
-  // }, {
-  //   question: '',
-  //   answers: [
-  //     ''
-  //   ]
-  // }, {
-  //   question: '',
-  //   answers: [
-  //     ''
-  //   ]
-  // }, {
-  //   question: '',
-  //   answers: [
-  //     ''
-  //   ]
-  // }, {
-  //   question: '',
-  //   answers: [
-  //     ''
-  //   ]
-  // }, {
-  //   question: '',
-  //   answers: [
-  //     ''
-  //   ]
-  // }
-  // 9-2, 5
-  //,   {
-  //   question: '',
-  //   answers: [
-  //     ''
-  //   ]
-  // }, {
-  //   question: '',
-  //   answers: [
-  //     ''
-  //   ]
-  // }, {
-  //   question: '',
-  //   answers: [
-  //     ''
-  //   ]
-  // }, {
-  //   question: '',
-  //   answers: [
-  //     ''
-  //   ]
-  // }, {
-  //   question: '',
-  //   answers: [
-  //     ''
-  //   ]
-  // }, {
-  //   question: '',
-  //   answers: [
-  //     ''
-  //   ]
-  // },
-  //  {
-  //   question: '',
-  //   answers: [
-  //     ''
-  //   ]
-  // },
-  //  {
-  //   question: '',
-  //   answers: [
-  //     ''
-  //   ]
-  // }, {
-  //   question: '',
-  //   answers: [
-  //     ''
-  //   ]
-  // }, {
-  //   question: '',
-  //   answers: [
-  //     ''
-  //   ]
-  // }, {
-  //   question: '',
-  //   answers: [
-  //     ''
-  //   ]
-  // }, {
-  //   question: '',
-  //   answers: [
-  //     ''
-  //   ]
-  // }, {
-  //   question: '',
-  //   answers: [
-  //     ''
-  //   ]
-  // }, {
-  //   question: '',
-  //   answers: [
-  //     ''
-  //   ]
-  // }
-// , {
-  //   question: '',
-  //   answers: [
-  //     ''
-  //   ]
-  // }, {
-  //   question: '',
-  //   answers: [
-  //     ''
-  //   ]
-  // }, {
-  //   question: '',
-  //   answers: [
-  //     ''
-  //   ]
-  // }, {
-  //   question: '',
-  //   answers: [
-  //     ''
-  //   ]
-  // }, {
-  //   question: '',
-  //   answers: [
-  //     ''
-  //   ]
-  // }, {
-  //   question: '',
-  //   answers: [
-  //     ''
-  //   ]
-  // }, {
-  //   question: '',
-  //   answers: [
-  //     ''
-  //   ]
-  // }, {
-  //   question: '',
-  //   answers: [
-  //     ''
-  //   ]
-  // }, {
-  //   question: '',
-  //   answers: [
-  //     ''
-  //   ]
-  // }, {
-  //   question: '',
-  //   answers: [
-  //     ''
-  //   ]
-  // }, {
-  //   question: '',
-  //   answers: [
-  //     ''
-  //   ]
-  // }, {
-  //   question: '',
-  //   answers: [
-  //     ''
-  //   ]
-  // }, {
-  //   question: '',
-  //   answers: [
-  //     ''
-  //   ]
-  // }, {
-  //   question: '',
-  //   answers: [
-  //     ''
-  //   ]
-  // }, {
   //   question: '',
   //   answers: [
   //     ''
